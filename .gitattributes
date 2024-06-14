@@ -1,0 +1,23 @@
+* text=auto
+*.py text
+*.csv text
+*.md text
+*.html text
+*.css text
+*.js text
+*.bat text
+*.png binary
+*.jpg binary
+*.svg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.exe binary
+*.bat text eol=crlf
+*.sh text eol=lf
+*.csv text eol=lf
+*.py text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
